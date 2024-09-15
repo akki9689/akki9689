@@ -1,10 +1,10 @@
 # 💫 About Me:
         I am Frontend Developer
-🔭 I’m currently working on Internship Projects
-🌱 I’m currently learning Backend Developement
-🤔 I’m looking for help with Android Developement
-💬 Ask me about Frontend Developement , REACTJs
-📫 How to reach me: akashpuri259@gmail.com
+🔭 I’m currently working on Internship Projects<br>
+🌱 I’m currently learning Backend Developement<br>
+🤔 I’m looking for help with Android Developement<br>
+💬 Ask me about Frontend Developement , REACTJs<br>
+📫 How to reach me: akashpuri259@gmail.com<br>
 
 
 ## 🌐 Socials:
